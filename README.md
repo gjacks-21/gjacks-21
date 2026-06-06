@@ -25,26 +25,26 @@ Driven and analytical Bioinformatician with an M.S. in Bioinformatics and a deep
 
 ## 📌 Featured Projects
 
-### [Deleterious Load in Sorghum](💥YOUR_REPOSITORY_LINK_HERE)
+### [Amino Acid Hydrophobicity Calculator](https://github.com/gjacks-21/protein-hydrophobicity-analyzer/tree/ff97b1ddcd3780fbf2e4433b1af3bb795a777353/aa-hydrophobicity_analysis_jacksong)
+*A modular Python 3 command-line application to analyze the amino acid distribution and hydrophobicity profiles of viral proteomes, mapping structural characteristics to aid targeted drug design and antiviral therapy development.*
+
+### [Deleterious Load in Sorghum](https://github.com/gjacks-21/research/blob/534259738da0d36c5c81f3f19b48564051c4e02d/Research%20Presentation.pdf)
 *A computational genomics workflow optimized for High-Performance Computing cluster architectures.*
 * Automated text-parsing and genomic filtering pipelines using customized, modular **Python** scripts.
 * Scaled compute performance across **15,000+ variant files** simultaneously utilizing **Slurm job arrays**.
 * Engineered robust data visualizations in **R** to present multi-variant statistical distributions.
 
-### [Protein-Protein Interaction Network Database](💥YOUR_REPOSITORY_LINK_HERE)
+### [Protein-Protein Interaction Network Database](https://github.com/gjacks-21/ppi_database/blob/3fa4dffc8ec6aa3e2ed0800b40fa220a8e592c84/FPPI%20DB%20Schema%20%26%20ETL.pdf)
 *Relational database that allows users to store, query, and analyze structural and functional information about protein complexes in Protein–Protein Docking Benchmark v5.5.*
 * Architected a standalone relational database using **SQLiteStudio** to process interactive queries.
 
-### [Investigative Statistical Analysis on T1D Patients](💥YOUR_REPOSITORY_LINK_HERE)
+### [Investigative Statistical Analysis on T1D Patients](https://github.com/gjacks-21/T1D_investigative_analysis/blob/a0a72e40fff53686250cc8845e4fd4e4a6377937/Final_PreliminaryAnalysis_gjackson.pdf)
 *A multivariate classification and Differential Expression Analysis of Whole Blood RNA-seq Data in Type 1 Diabetes.*
 * Combined statistical tests and machine learning algorithms to evaluate whole blood gene expression profiles of T1D patients and healthy controls. 
 
-### [Exploring Diversification Rates and Eusociality in Halictid Bees](💥YOUR_REPOSITORY_LINK_HERE)
+### [Exploring Diversification Rates and Eusociality in Halictid Bees](https://github.com/gjacks-21/macroevolutionary_project_halictid/blob/b43deec1f0e03643bf1b4301ce471a1b9a91045f/Final_Proj_Halictid.pdf)
 *An evolutionary data science project analyzing whether social complexity acts as a macroevolutionary engine for speciation.*
 * Developed an end-to-end computational phylogenetics pipeline in R to evaluate the macroevolutionary impact of social complexity (eusociality) across the bee family Halictidae.
-
-### [Amino Acid Hydrophobicity Calculator](💥YOUR_REPOSITORY_LINK_HERE)
-*A modular Python 3 command-line application to analyze the amino acid distribution and hydrophobicity profiles of viral proteomes, mapping structural characteristics to aid targeted drug design and antiviral therapy development.*
 
 ---
 
