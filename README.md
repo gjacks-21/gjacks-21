@@ -32,25 +32,19 @@ Driven and analytical Bioinformatician with an M.S. in Bioinformatics and a deep
 * Engineered robust data visualizations in **R** to present multi-variant statistical distributions.
 
 ### [Protein-Protein Interaction Network Database](💥YOUR_REPOSITORY_LINK_HERE)
-*Relational and Graph-based topological mapping of intricate protein complexes.*
+*Relational database that allows users to store, query, and analyze structural and functional information about protein complexes in Protein–Protein Docking Benchmark v5.5.*
 * Architected a standalone relational database using **SQLiteStudio** to process interactive queries.
-* Cross-referenced relational data with **Neo4j graph databases** to visually map paths and biological network paths.
 
-### Investigative Statistical Analysis on T1D Patients
+### [Investigative Statistical Analysis on T1D Patients](repository link)
+*A multivariate classification and Differential Expression Analysis of Whole Blood RNA-seq Data in Type 1 Diabetes.*
+* Combined statistical tests and machine learning algorithms to evaluate whole blood gene expression profiles of T1D patients and healthy controls. 
 
-### Exploring Diversification Rates and Eusociality in Halictid Bees 
+### [Exploring Diversification Rates and Eusociality in Halictid Bees](repository link)
+*An evolutionary data science project analyzing whether social complexity acts as a macroevolutionary engine for speciation.*
+* Developed an end-to-end computational phylogenetics pipeline in R to evaluate the macroevolutionary impact of social complexity (eusociality) across the bee family Halictidae.
 
-### Hydrophobicity Calculator
-
----
-
-## 📈 GitHub Metrics
-*(These will update automatically based on your real GitHub activity! Just replace **YOUR_USERNAME** in the URLs below)*
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=gjacks-21&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Gloria's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjacks-21&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+### [Amino Acid Hydrophobicity Calculator](repository link)
+*A modular Python 3 command-line application to analyze the amino acid distribution and hydrophobicity profiles of viral proteomes, mapping structural characteristics to aid targeted drug design and antiviral therapy development.
 
 ---
 
