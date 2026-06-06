@@ -35,15 +35,15 @@ Driven and analytical Bioinformatician with an M.S. in Bioinformatics and a deep
 *Relational database that allows users to store, query, and analyze structural and functional information about protein complexes in Protein–Protein Docking Benchmark v5.5.*
 * Architected a standalone relational database using **SQLiteStudio** to process interactive queries.
 
-### [Investigative Statistical Analysis on T1D Patients](repository link)
+### [Investigative Statistical Analysis on T1D Patients](💥YOUR_REPOSITORY_LINK_HERE)
 *A multivariate classification and Differential Expression Analysis of Whole Blood RNA-seq Data in Type 1 Diabetes.*
 * Combined statistical tests and machine learning algorithms to evaluate whole blood gene expression profiles of T1D patients and healthy controls. 
 
-### [Exploring Diversification Rates and Eusociality in Halictid Bees](repository link)
+### [Exploring Diversification Rates and Eusociality in Halictid Bees](💥YOUR_REPOSITORY_LINK_HERE)
 *An evolutionary data science project analyzing whether social complexity acts as a macroevolutionary engine for speciation.*
 * Developed an end-to-end computational phylogenetics pipeline in R to evaluate the macroevolutionary impact of social complexity (eusociality) across the bee family Halictidae.
 
-### [Amino Acid Hydrophobicity Calculator](repository link)
+### [Amino Acid Hydrophobicity Calculator](💥YOUR_REPOSITORY_LINK_HERE)
 *A modular Python 3 command-line application to analyze the amino acid distribution and hydrophobicity profiles of viral proteomes, mapping structural characteristics to aid targeted drug design and antiviral therapy development.
 
 ---
