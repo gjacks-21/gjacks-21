@@ -44,7 +44,7 @@ Driven and analytical Bioinformatician with an M.S. in Bioinformatics and a deep
 * Developed an end-to-end computational phylogenetics pipeline in R to evaluate the macroevolutionary impact of social complexity (eusociality) across the bee family Halictidae.
 
 ### [Amino Acid Hydrophobicity Calculator](💥YOUR_REPOSITORY_LINK_HERE)
-*A modular Python 3 command-line application to analyze the amino acid distribution and hydrophobicity profiles of viral proteomes, mapping structural characteristics to aid targeted drug design and antiviral therapy development.
+*A modular Python 3 command-line application to analyze the amino acid distribution and hydrophobicity profiles of viral proteomes, mapping structural characteristics to aid targeted drug design and antiviral therapy development.*
 
 ---
 
