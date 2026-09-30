@@ -1,6 +1,6 @@
 # Hi there, I'm Gloria! 👋 
 
-### 🧬 Bioinformatician | Computational Genomicist | Data Scientist
+### 🧬 Bioinformatician | Data Scientist | Computational Genomicist
 
 Driven and analytical Bioinformatician with an M.S. in Bioinformatics and a deep passion for unlocking meaningful insights from massive datasets. My research focuses on computational genomics, high-throughput variant (SNP) analysis, machine learning workflows on High-Performance Computing (HPC) clusters, performing statistical analyses, and using programs to visualize data.
 
