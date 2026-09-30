@@ -7,7 +7,7 @@ Driven and analytical Bioinformatician with an M.S. in Bioinformatics and a deep
 ---
 
 ## 🧪 Research & Core Expertise
-* **Computational Genomics:** Extensive experience manipulating **tens of thousands of files simultaneously** for large-scale SNP data wrangling and parsing.
+* **Computational Genomics:** Extensive experience manipulating **15,000+ files simultaneously** for large-scale SNP data wrangling and parsing.
 * **HPC & Automation:** Advanced scripting utilizing **Slurm batch workloads and job arrays** to optimize computing runtimes on cluster architectures.
 * **Data Engineering:** Architecting relational (**SQL/SQLite**) and graph (**Neo4j**) biological networks to map complex protein-protein interactions.
 
