@@ -2,12 +2,12 @@
 
 ### 🧬 Bioinformatician | Computational Genomicist | Data Scientist
 
-Driven and analytical Bioinformatician with an M.S. in Bioinformatics and a deep passion for unlocking biological insights from massive datasets. My research focuses on computational genomics, high-throughput variant (SNP) analysis, machine learning workflows on High-Performance Computing (HPC) clusters, and performing statistical analyses.
+Driven and analytical Bioinformatician with an M.S. in Bioinformatics and a deep passion for unlocking meaningful insights from massive datasets. My research focuses on computational genomics, high-throughput variant (SNP) analysis, machine learning workflows on High-Performance Computing (HPC) clusters, performing statistical analyses, and using programs to visualize data.
 
 ---
 
 ## 🧪 Research & Core Expertise
-* **Computational Genomics:** Extensive experience manipulating **15,000+ files simultaneously** for large-scale SNP data wrangling and parsing.
+* **Computational Genomics:** Extensive experience manipulating **tens of thousands of files simultaneously** for large-scale SNP data wrangling and parsing.
 * **HPC & Automation:** Advanced scripting utilizing **Slurm batch workloads and job arrays** to optimize computing runtimes on cluster architectures.
 * **Data Engineering:** Architecting relational (**SQL/SQLite**) and graph (**Neo4j**) biological networks to map complex protein-protein interactions.
 
